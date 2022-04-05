@@ -1,11 +1,11 @@
-## Hi there ☀
+## Hi there! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 
 Welcome to my GitHub! I'm Sol, a Biology graduate who's transitioning into Software Engineering. Through self-study and enrolling in a coding Bootcamp at [Factoría F5](https://factoriaf5.org/), I am building a solid foundation in both frontend and backend technologies.
 <br>
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
   
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Things that I'm currently working on:
+### Things that I'm currently working on:
 
 
 - I've been improving my knowledge of JavaScript and JAVA using frameworks like React and Spring Boot
