@@ -5,7 +5,8 @@ Welcome to my GitHub! I'm Sol, a Biology graduate who's transitioning into Softw
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
   
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Things that I'm currently working on:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Things that I'm currently working on:
+
 
 - I've been improving my knowledge of JavaScript and JAVA using frameworks like React and Spring Boot
 - Object-oriented programming with TDD, following SOLID principles and clean code good practices
@@ -48,7 +49,7 @@ Welcome to my GitHub! I'm Sol, a Biology graduate who's transitioning into Softw
 
 ---
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">If you want to say hi, I'll be happy to meet you more!
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">If you want to say hi, I'll be happy to meet you more!
 
 <a href="https://www.linkedin.com/in/solturipe/">
   <img align="left" alt="Sol's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -63,7 +64,7 @@ Welcome to my GitHub! I'm Sol, a Biology graduate who's transitioning into Softw
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">How about some stats?
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> How about some stats?
 
 <table>
   <tr>
