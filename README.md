@@ -49,7 +49,18 @@ Welcome to my GitHub! I'm Sol, a Biology graduate who's transitioning into Softw
 
 ---
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">If you want to say hi, I'll be happy to meet you more!
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> How about some stats?
+
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolTuripe&theme=radical&card_width=450em)](https://github.com/SolTuripe/SolTuripe/github-readme-stats"/></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=SolTuripe&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+  </tr>
+</table>
+
+---
+
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="35px" /> If you want to say hi, I'll be happy to meet you more!
 
 <a href="https://www.linkedin.com/in/solturipe/">
   <img align="left" alt="Sol's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -62,14 +73,4 @@ Welcome to my GitHub! I'm Sol, a Biology graduate who's transitioning into Softw
 </a>
 </br>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> How about some stats?
-
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolTuripe&theme=radical&card_width=450em)](https://github.com/SolTuripe/SolTuripe/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=SolTuripe&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
-  </tr>
-</table>
-
----
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Check the repositories section to see my efforts! Hope, you will enjoy it!
