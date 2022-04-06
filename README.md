@@ -1,4 +1,4 @@
-## Hi there! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
+## Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
 
 Welcome to my GitHub! I'm Sol, a Biology graduate who's transitioning into Software Engineering. Through self-study and enrolling in a coding Bootcamp at [Factoría F5](https://factoriaf5.org/), I am building a solid foundation in both frontend and backend technologies.
 <br>
@@ -62,8 +62,6 @@ Welcome to my GitHub! I'm Sol, a Biology graduate who's transitioning into Softw
 </a>
 </br>
 
----
-
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> How about some stats?
 
 <table>
@@ -72,3 +70,6 @@ Welcome to my GitHub! I'm Sol, a Biology graduate who's transitioning into Softw
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=SolTuripe&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
   </tr>
 </table>
+
+---
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Check the repositories section to see my efforts! Hope, you will enjoy it!
