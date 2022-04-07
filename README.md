@@ -37,7 +37,7 @@ Welcome to my GitHub! I'm Sol, a Biology graduate who's transitioning into Softw
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion)
 
 
-### I'm eager to improve
+### I'm eager to learn and improve
 
 ![React native](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
@@ -57,8 +57,6 @@ Welcome to my GitHub! I'm Sol, a Biology graduate who's transitioning into Softw
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=SolTuripe&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
   </tr>
 </table>
-
----
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="35px" /> If you want to say hi, I'll be happy to meet you more!
 
