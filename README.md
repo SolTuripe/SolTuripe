@@ -33,11 +33,11 @@ Welcome to my GitHub! I'm Sol, a Biology graduate who's transitioning into Softw
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolTuripe&theme=radical&card_width=450em)](https://github.com/SolTuripe/SolTuripe/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=SolTuripe&theme=radical&count_private=true&hide_border=true&show_icons=true&include_all_commits=true" /></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=SolTuripe&show_icons=true&theme=radical&include_all_commits=true" /></td>
   </tr>
 </table>
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="35px" /> If you want to say hi, I'll be happy to meet you more!
+### <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="2px"> If you want to say hi, I'll be happy to meet you more!
 
 <a href="https://www.linkedin.com/in/solturipe/">
   <img align="left" alt="Sol's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
