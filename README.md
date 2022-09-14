@@ -1,4 +1,4 @@
-## Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
+## Hi there! <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="40"/>
 
 Welcome to my GitHub! I'm Sol, a Biology graduate who's transitioning into Software Engineering. Through self-study and enrolling in a coding Bootcamp at [Factoría F5](https://factoriaf5.org/), I am building a solid foundation in both frontend and backend technologies.
 <br>
@@ -7,15 +7,14 @@ Welcome to my GitHub! I'm Sol, a Biology graduate who's transitioning into Softw
   
 ### Things that I'm currently working on:
 
-
-- I've been improving my knowledge of JavaScript and JAVA using frameworks like React and Spring Boot
+- Backend Engineer at [Adevinta Spain](https://www.adevinta.es/)
+- I've been improving my knowledge of JavaScript, JAVA and Kotlin using frameworks like React and Spring Boot
 - Object-oriented programming with TDD, following SOLID principles and clean code good practices
 - Microservice Architecture
-- Building projects and my portfolio website. Although, I think I'll wait to learn more about React before building the website
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
 
 ### Technologies and Tools
 
@@ -28,16 +27,16 @@ Welcome to my GitHub! I'm Sol, a Biology graduate who's transitioning into Softw
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> How about some stats?
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">  How about some stats?
 
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolTuripe&theme=radical&card_width=450em)](https://github.com/SolTuripe/SolTuripe/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=SolTuripe&show_icons=true&theme=radical&include_all_commits=true" /></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=SolTuripe&show_icons=true&theme=radical" /></td>
   </tr>
 </table>
 
-### <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="2px"> If you want to say hi, I'll be happy to meet you more!
+### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> If you want to say hi, I'll be happy to meet you more!
 
 <a href="https://www.linkedin.com/in/solturipe/">
   <img align="left" alt="Sol's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
