@@ -31,8 +31,8 @@ Welcome to my GitHub! I'm Sol, a Biology graduate who's transitioning into Softw
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolTuripe&theme=radical&card_width=450em)](https://github.com/SolTuripe/SolTuripe/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=SolTuripe&show_icons=true&theme=radical" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolTuripe&theme=midnight-purple&card_width=450em)](https://github.com/SolTuripe/SolTuripe/github-readme-stats"/></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=SolTuripe&show_icons=true&theme=midnight-purple" /></td>
   </tr>
 </table>
 
