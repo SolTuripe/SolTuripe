@@ -1,4 +1,4 @@
-## Hi there! <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="40"/>
+## Hi there! <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="30"/>
 
 Welcome to my GitHub! I'm Sol, a Biology graduate who's transitioning into Software Engineering. Through self-study and enrolling in a coding Bootcamp at [Factoría F5](https://factoriaf5.org/), I am building a solid foundation in both frontend and backend technologies.
 <br>
